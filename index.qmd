@@ -1,0 +1,20 @@
+---
+title: "HOME"
+---
+
+Hi, I'm Bhavyasri, a Master's student in Data Analytics at George Mason University. I have a passion for data architecture and healthcare data analysis.
+
+# Education:
+
+-   **Master's in Data Analytics** – George Mason University,USA
+-   **B.Tech in Computer Science and Engineering** – India
+
+# Skills:
+
+-   **Programming**: Python, Java, SQL,R
+
+# Interests:
+
+-   Data Architecture
+-   Health Data Analytics
+-   Social Service and Badminton
